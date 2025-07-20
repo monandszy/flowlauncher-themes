@@ -1,0 +1,1 @@
+copy "./Themes/*" "%USERPROFILE%\_MyPrograms\Portable\FlowLauncher\app-1.16.2\UserData\Themes\*"
